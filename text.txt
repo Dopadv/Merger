@@ -1,1 +1,1 @@
-Hello from merge branch
+This is a conflicting change made on the merge branch!
